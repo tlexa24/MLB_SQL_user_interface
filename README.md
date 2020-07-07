@@ -16,5 +16,7 @@ Through a series of these questions, the program will craft a query, and utilizi
 
 # Future Improvements
 -Adding security features. Right now, any user can perform any operation, but for example, this can be changed so that only certain users can delete records
+
 -Right now, the program only supports full joins of tables. In the future, I'd like to add functionality allowing users to have left/right/outer joins, along with unions.
+
 -Add further support for more SQL datatypes. Right now, the program only accounts for datatypes present in the MLB schema, and in order to be effective in all databases, more datatypes will need to be supported. 
